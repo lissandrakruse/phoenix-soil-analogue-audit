@@ -1,0 +1,10 @@
+{
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "pandas": "2.2.3",
+  "seed": 20261029,
+  "bootstrap_replicates": 2000,
+  "input_rows": 14805,
+  "scipy": "1.17.0",
+  "matplotlib": "3.10.8"
+}

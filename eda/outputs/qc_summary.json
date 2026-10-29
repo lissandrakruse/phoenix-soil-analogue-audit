@@ -1,0 +1,18 @@
+{
+  "rows": 14805,
+  "unique_samples": 14805,
+  "pedons": 2165,
+  "complete_rows": 3882,
+  "complete_pedons": 869,
+  "invalid_or_missing_depth_rows": 175,
+  "negative_chemistry_rows": 123,
+  "ph_outside_0_14": 0,
+  "repeated_pedon_depth_rows": 277,
+  "unique_coordinate_pairs": 1751,
+  "coordinate_pairs_shared_by_multiple_pedons": 47,
+  "water_complete": 15,
+  "method_signatures_complete": 10,
+  "soil_name_missing": 639,
+  "east_longitude_rows": 14,
+  "near_boundary_complete": 25
+}

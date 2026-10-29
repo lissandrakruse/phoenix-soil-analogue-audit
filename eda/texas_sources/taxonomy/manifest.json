@@ -1,0 +1,26 @@
+{
+  "README.md": {
+    "bytes": 3436,
+    "sha256": "ef020a8b7b62de4b6ce98b77ccc6031d95e33e43c738a8afcf79c2d8145896e8"
+  },
+  "download_taxonomy.py": {
+    "bytes": 1936,
+    "sha256": "b6ae5483d092e93d8bd1afe5ccdcedd2818f800bb40e9d5c019c4607e25de1d4"
+  },
+  "query.sql": {
+    "bytes": 644,
+    "sha256": "8c0b24d365b72de7fc633c21cacfa2f177f2e0b8461369e66eaee913788dc1af"
+  },
+  "summary.json": {
+    "bytes": 2330,
+    "sha256": "e3023816273dc724aae663c8334daebc5824c4b227f9a8d9b5bc17d062f1db55"
+  },
+  "taxonomy_raw.json": {
+    "bytes": 825004,
+    "sha256": "5684fe0d5f88cf5a20de557421356c9e3021a63df6b041788fb8dbcd52d7480c"
+  },
+  "texas_pedon_taxonomy.csv": {
+    "bytes": 595122,
+    "sha256": "1ac97df73f329bdf881160f3e85a640897be36fab09fc5059b2f0e7e78d677a9"
+  }
+}

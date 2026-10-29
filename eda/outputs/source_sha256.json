@@ -1,0 +1,23 @@
+{
+  "texas_sources/README-localities.md": "020899c668cd4edd7ea2597b6a60146d6f8f5b4f2b95cd7d26c1c26681339d8c",
+  "texas_sources/README.md": "5b2bd30cb4a6954b6612cf0e3947644b2b6d82d32d34f8f209a715b09455c5b9",
+  "texas_sources/build_localities.py": "67b56c61d35a5317b7a6567c14eea28c275f3ecec6d7df5b589d86e4bad565b1",
+  "texas_sources/checksum.json": "7683c4c2371c6ac5682e8a104bfd4e03e6b930953d5ef18aa3db12bfa72f590a",
+  "texas_sources/county_coverage.csv": "403b6c9ef0df8e6adf724ee178fb37b521b82a55a631726f238dd6f5b89349bb",
+  "texas_sources/download.py": "c93109cc95e7a7fab3541f4812becdf9aec7702dffbd57f8e2c414a0bf13bddf",
+  "texas_sources/locality_validation.json": "d669c891d4b483724b8313451e8ae1b281e2a2db1b67bf510914780db85516d2",
+  "texas_sources/manifest.json": "d545420e05ef33a95721189672517ecbf6d85798404b57e79ef8f2c098694a45",
+  "texas_sources/query.sql": "55c034b9187a9a240786222110039c651d139038b567b13df6b0c087cfb91883",
+  "texas_sources/requirements-localities.txt": "d4f7bb26c2eae61230aed7a1ac99606ff1b6e06bed5e620fc5241841dd630f01",
+  "texas_sources/summary.json": "de966888a2be920b29dd980c41915d04e6bc34870cf73c912887dbcfa028bceb",
+  "texas_sources/taxonomy/README.md": "ef020a8b7b62de4b6ce98b77ccc6031d95e33e43c738a8afcf79c2d8145896e8",
+  "texas_sources/taxonomy/checksum.json": "7ee29c12e5a8a9216be33ee74f24704bbc4302e020009476ec0263dd433e8e83",
+  "texas_sources/taxonomy/download_taxonomy.py": "b6ae5483d092e93d8bd1afe5ccdcedd2818f800bb40e9d5c019c4607e25de1d4",
+  "texas_sources/taxonomy/manifest.json": "dabda8759ff0cdfdc73b60390e3c6803dab2613dc9561b9243c5450b5ec1d359",
+  "texas_sources/taxonomy/query.sql": "8c0b24d365b72de7fc633c21cacfa2f177f2e0b8461369e66eaee913788dc1af",
+  "texas_sources/taxonomy/summary.json": "e3023816273dc724aae663c8334daebc5824c4b227f9a8d9b5bc17d062f1db55",
+  "texas_sources/taxonomy/texas_pedon_taxonomy.csv.gz": "e2d8e84bdf2a7ea317ddeb5a382c5279f1932bf2dc6523154322280669037451",
+  "texas_sources/texas_all.csv.gz": "b63a5701389b5a5e07686b07bb8255c9c607035fdf4befd46cfeb48f789c7656",
+  "texas_sources/texas_locality_coverage.csv": "706eff9b9ac176a98bcbe12f01eaac382e5a98ee4bd65c7acd96107e7c5add0e",
+  "texas_sources/texas_sample_localities.csv.gz": "be4259be136532b7a0253e417f40514ffb9ad5ab1b1b952e23cd7b33ae38caad"
+}

@@ -1,0 +1,10 @@
+{
+  "source_gzip_and_plain_rows": 14805,
+  "plain_full_eda_tests_passed": 9,
+  "fallback_unit_tests_passed": 4,
+  "output_differences": [
+    "source_sha256.json (expected: compressed filenames replaced by plain verified inputs)"
+  ],
+  "patch_sha256": "dee490ac9f267ea27e77d71b811e9a056aa4552dbb9b4fe0ea6669b725a6e10e",
+  "confirmed_kaggle_root_cause": false
+}

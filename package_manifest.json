@@ -1,0 +1,578 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 75,
+    "sha256": "b47ad005f10d723599162a78d853188090495df10259199325fd442024cc9ddb",
+    "gitsha": "d38846a0665e84b077cbd26695f968ca1a3c7b9c"
+  },
+  {
+    "path": "LICENSE_CODE_APACHE_2_0.txt",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "gitsha": "d645695673349e3947e8e5ae42332d0ac3164cd7"
+  },
+  {
+    "path": "METHODS.md",
+    "bytes": 8235,
+    "sha256": "d077ac2911ba4f8d5425264e9964638bd2154a0b52a79be6c7c62306b778e51a",
+    "gitsha": "bb8227494c825c9fd55ffedc8c3698ccc1401ab3"
+  },
+  {
+    "path": "PUBLICATION_PROVENANCE.json",
+    "bytes": 949,
+    "sha256": "a9b4afd1d1d957a0078c2da6014cb899936ee9f7a9bd2280a11edfe7f1c1cc2f",
+    "gitsha": "afbee61344a37d65957837dbfa61904181c2f47f"
+  },
+  {
+    "path": "QA.md",
+    "bytes": 2182,
+    "sha256": "cb887ab0653499c65bff5cc7b9504e73227921dd5942b3d9bc35be96ace32ad2",
+    "gitsha": "66cfde16c9342115c02d76454cfc952d44cb60f2"
+  },
+  {
+    "path": "README.md",
+    "bytes": 8584,
+    "sha256": "d0a998fcbfb8eb6b612cc6efe970d194d50bb680a06a47a0636a435f7861ca82",
+    "gitsha": "4abd4854061e5e07323220d8ca31c098d8af9761"
+  },
+  {
+    "path": "Texas_Phoenix_Numerical_Study.ipynb",
+    "bytes": 696730,
+    "sha256": "2ac113dee1411f4a8b56439894680a02ad60eaf0a2b27d860b210ec58a87082d",
+    "gitsha": "dc757687cbbcdffc183011317e795c8aa1f00027"
+  },
+  {
+    "path": "build_notebook.py",
+    "bytes": 10177,
+    "sha256": "218a499a838ab14ef9b7d0770f1ad24a0c7738e2273c92393e2101932e3482ad",
+    "gitsha": "9f18c4fcf715e71448e33a5dda3dc4e08e9b1ef6"
+  },
+  {
+    "path": "eda/QA.md",
+    "bytes": 1073,
+    "sha256": "b533f78dc24bd9f2b65c07b58a32b45ae8ba0d0ab00d66c05b7adca7aa1f8b03",
+    "gitsha": "ced8e496f622a96c65a79c4c69472ea043df52ea"
+  },
+  {
+    "path": "eda/README.md",
+    "bytes": 1894,
+    "sha256": "0b10234b3d74b2bb9b58e91f92e30408409079dd487eedb3586285e4c3323b84",
+    "gitsha": "06488b7c0c65787bea12631cf43e8e83421d0101"
+  },
+  {
+    "path": "eda/REPORT.md",
+    "bytes": 6470,
+    "sha256": "dfc3bd9213da5e7f4f4e1e2dc293152eae391dd4de6d0e645a98c6a482e9fc8f",
+    "gitsha": "f49a052242f462609563d2232faec4bbcc8a638e"
+  },
+  {
+    "path": "eda/analyze.py",
+    "bytes": 21160,
+    "sha256": "ed8e185190412517d0866023f1faa859863caf32b1591c8cb77116e7710bb408",
+    "gitsha": "472b58335e2a86e945d255a494140ffb6310b3ba"
+  },
+  {
+    "path": "eda/archive_compatibility_verification.json",
+    "bytes": 361,
+    "sha256": "95cb34c8ba1d5a7c7835d766570067630194afed44f2a46ed9ad8f2c59dd6670",
+    "gitsha": "535099dc4c1f379da735dad2c136525a0d2a2fc4"
+  },
+  {
+    "path": "eda/first_run_hashes.json",
+    "bytes": 2489,
+    "sha256": "2e841e1687817d39c8194df4b8faf06eb28202fa3b5590c93e14bc19af0c35a4",
+    "gitsha": "cf7840bbebf6d35a5c4c7405ea6a4fffa69b34a3"
+  },
+  {
+    "path": "eda/outputs/complete_method_signatures.csv",
+    "bytes": 815,
+    "sha256": "25027d8a39ba95bbbce669a62caee991ced467391cc5e71ed6c970eebfbc2e04",
+    "gitsha": "badad1dab6de7325a6b6134fed14945cf8cf8138"
+  },
+  {
+    "path": "eda/outputs/coordinate_clusters.csv",
+    "bytes": 48247,
+    "sha256": "348a52f0ce848d1c9b27046e80ff5f3d1d5ca19793013855b99c25295918b3f6",
+    "gitsha": "8ad0763adf2e19217e15d537c0cb2dab58722e36"
+  },
+  {
+    "path": "eda/outputs/correlations.csv",
+    "bytes": 4804,
+    "sha256": "294457b2f28b1a0cc9cda5897d44b196e08c74b5f7b8cec4452c42678a06dfd4",
+    "gitsha": "91ea8f582547680e820d76dc2347327cf062c9cc"
+  },
+  {
+    "path": "eda/outputs/correlations_by_method_preparation.csv",
+    "bytes": 14758,
+    "sha256": "82ec3633d84e6c7274570952e458bf3313f7be68b8d65457a3913fb15fbbfe62",
+    "gitsha": "25b7fad82d87e408ac40664160a777c3bbe54eb8"
+  },
+  {
+    "path": "eda/outputs/coverage_by_group.csv",
+    "bytes": 110837,
+    "sha256": "a398c9429381efd3bd310876b43122e3e7cc1c6f58290022095977c9b4ce8b7c",
+    "gitsha": "2b043af959e623638f4da5709a101ab4ac9d3f8f"
+  },
+  {
+    "path": "eda/outputs/descriptive_distributions.csv",
+    "bytes": 3182,
+    "sha256": "0260f0869ceb47e99dc532a21e9d907ffc06f68b5b901810bfdbbf2ed7187903",
+    "gitsha": "c975119d05813f9c98f9a3729853a4835f0fdc93"
+  },
+  {
+    "path": "eda/outputs/distributions.png",
+    "bytes": 109163,
+    "sha256": "8622dd7fc337cca8ec5e8b6619373ae1ca894b27471edf13087227a39ebbe548",
+    "gitsha": "6ccbcc03bc19e9ddf66f32c19494660b27d7d9f7"
+  },
+  {
+    "path": "eda/outputs/distributions_by_method_preparation.csv",
+    "bytes": 5892,
+    "sha256": "46ab593f56cf77a9ea2e5aeb26dd206f8f1170952549c05a6f0bf7e34457eacf",
+    "gitsha": "a4ccbfa293416855f0f40f2d127b144c8a66ac33"
+  },
+  {
+    "path": "eda/outputs/measurement_availability.png",
+    "bytes": 46222,
+    "sha256": "bc1f6711d4da9dac149c3c8d0849a7cf7b2132b46db6bd2c14c9bf94bcc005e9",
+    "gitsha": "356ed5ed0166c7f6df94e2bf9b8a27f70a49d6bc"
+  },
+  {
+    "path": "eda/outputs/missingness_patterns.csv",
+    "bytes": 368,
+    "sha256": "b814d40cd3b54bd8236a2946c12a96ad4af420486bb61b7a77a589f65ab5289c",
+    "gitsha": "0835c35a8e1d9b738ad137028abdcba5e83efc6e"
+  },
+  {
+    "path": "eda/outputs/partial_ion_inventory.csv",
+    "bytes": 526178,
+    "sha256": "dac5e4686f980afd0fc5ade278c61e927d6d7b243878de8b9d13a51e9ffeee64",
+    "gitsha": "0e173c1cd2850477a6c17557f1116988665259bf"
+  },
+  {
+    "path": "eda/outputs/pedon_bootstrap_descriptives.csv",
+    "bytes": 3155,
+    "sha256": "a9cf9e9ec43dfa8da637b2ccac17d1bc9e1202662b0e18c6fde6d33175566aff",
+    "gitsha": "66de2f3686559ca9e3ec7dd42e2eff118b9c61da"
+  },
+  {
+    "path": "eda/outputs/pedon_correlations.png",
+    "bytes": 90060,
+    "sha256": "0ced58c24b289f2e6ea38bf9ec370fad297aa23e6c2df1e442681abbf68e931e",
+    "gitsha": "c8a7f4828bc87641c3badba7c525ca7e7aa9cd4f"
+  },
+  {
+    "path": "eda/outputs/qc_sensitivity_correlations.csv",
+    "bytes": 8614,
+    "sha256": "2ea2523f4cd622a5f8cea44ed583854fb45efcc730993934ebedf7a2cbed8cd0",
+    "gitsha": "b70e45b1a94d3b6a80770df9b14a0e992073910e"
+  },
+  {
+    "path": "eda/outputs/qc_sensitivity_descriptives.csv",
+    "bytes": 1981,
+    "sha256": "5698f982e62b0ede974506e3cace520c39d18a2f6406fe389a4a54a95febac6d",
+    "gitsha": "dbe5086429708d92ecdb47be447d4c3085de3799"
+  },
+  {
+    "path": "eda/outputs/qc_summary.json",
+    "bytes": 485,
+    "sha256": "d14be4115302004b395274519b4f61eccc33e22221505de6e621c5dd3fbebe95",
+    "gitsha": "b1ace87d61ba1e5e0a3e1a18a4e2c0e4e262dc70"
+  },
+  {
+    "path": "eda/outputs/recorded_coordinate_coverage.png",
+    "bytes": 172419,
+    "sha256": "9a56c6fc7cde29076ec984c2442ee2c5ac1e35d88e6890b734b8f5fba974411e",
+    "gitsha": "574ac4235700ee24bdfa8de097e52eaac769e7a5"
+  },
+  {
+    "path": "eda/outputs/recorded_coordinate_coverage_raw.png",
+    "bytes": 89603,
+    "sha256": "9c12b0fef8b310dafe232145f1c09a6ac2603f8ed0003dbc09b440ac86aed247",
+    "gitsha": "632e251e45c885adde3024e62e59d28218dd31d0"
+  },
+  {
+    "path": "eda/outputs/repeated_pedon_depth_groups.csv",
+    "bytes": 3859,
+    "sha256": "7486b672a91532edddf5d20830dff71b81d35720cc44c8a4f8fb95704215a183",
+    "gitsha": "83c5eb320259c6f1d3dda7b4a54cd14bac55d466"
+  },
+  {
+    "path": "eda/outputs/run_metadata.json",
+    "bytes": 188,
+    "sha256": "4719fcb747596ed4b55e586c24df615e18979a440cd373cf015000f9fd2a0c14",
+    "gitsha": "f7081f9772894323c98fd5d580f76b59f837d7e3"
+  },
+  {
+    "path": "eda/outputs/samples_wide.csv.gz",
+    "bytes": 552580,
+    "sha256": "4cc259307a5abd34d073ea63aaafcfbd78e39ecb5f2ac4e51ee52ee3070e1249",
+    "gitsha": "87da4530c082cc7a6d98740b447bc066aa5886d9"
+  },
+  {
+    "path": "eda/outputs/soil_name_strata.csv",
+    "bytes": 75995,
+    "sha256": "76fbe97eca1e80ccb2b1cb49cc2e4f43778f3a83256c56b53548f4675c93553b",
+    "gitsha": "145e9abd8499aab3e768cd7710c1599316c9a0a5"
+  },
+  {
+    "path": "eda/outputs/source_sha256.json",
+    "bytes": 2265,
+    "sha256": "1410efd4d8b442426f541801de8fbefdf1c4bcdcbdff6d94def8d44f752caf33",
+    "gitsha": "9c7581d3de9db64223f6ca1135c34c998e6fbf1c"
+  },
+  {
+    "path": "eda/reproducibility_verification.json",
+    "bytes": 168,
+    "sha256": "45326b4599b8939e528551dbad14ecc935b922e3bd3391ed86eb8ae1aa1a0c27",
+    "gitsha": "5a5597c1f962e3985775392d49667290dab75bfd"
+  },
+  {
+    "path": "eda/requirements.txt",
+    "bytes": 60,
+    "sha256": "d0066322d3ef6a963dfc3d2534ab36e16274c51b251f0aa9d5e6e4cdfab4504c",
+    "gitsha": "2cae4638f7df0551c7d99ab1dd7017000519547f"
+  },
+  {
+    "path": "eda/study_inputs.py",
+    "bytes": 4649,
+    "sha256": "dee490ac9f267ea27e77d71b811e9a056aa4552dbb9b4fe0ea6669b725a6e10e",
+    "gitsha": "5cbb6c61abaf1e4c82ac2cfa791653159e1f38ea"
+  },
+  {
+    "path": "eda/test_study.py",
+    "bytes": 2897,
+    "sha256": "a3311e37344450dea5cf1d8ebc14420dd2cb472d40354b7158025d2ce10b8df4",
+    "gitsha": "385c5c18efb7d731e84b0c463eb131a6887b9936"
+  },
+  {
+    "path": "eda/texas_sources/README-localities.md",
+    "bytes": 6231,
+    "sha256": "020899c668cd4edd7ea2597b6a60146d6f8f5b4f2b95cd7d26c1c26681339d8c",
+    "gitsha": "995852414070d2fdc10b461852b87811cc9c7a9a"
+  },
+  {
+    "path": "eda/texas_sources/README.md",
+    "bytes": 5834,
+    "sha256": "5b2bd30cb4a6954b6612cf0e3947644b2b6d82d32d34f8f209a715b09455c5b9",
+    "gitsha": "c524de24edb10cd3bca7503f52b9f076e0eadc8c"
+  },
+  {
+    "path": "eda/texas_sources/build_localities.py",
+    "bytes": 6134,
+    "sha256": "67b56c61d35a5317b7a6567c14eea28c275f3ecec6d7df5b589d86e4bad565b1",
+    "gitsha": "7da4e634c8975010718a86fde4b7a35f126b3974"
+  },
+  {
+    "path": "eda/texas_sources/checksum.json",
+    "bytes": 184,
+    "sha256": "7683c4c2371c6ac5682e8a104bfd4e03e6b930953d5ef18aa3db12bfa72f590a",
+    "gitsha": "7d6c897e914e5e247fa9bd860ac8bc91825427b5"
+  },
+  {
+    "path": "eda/texas_sources/county_coverage.csv",
+    "bytes": 4191,
+    "sha256": "403b6c9ef0df8e6adf724ee178fb37b521b82a55a631726f238dd6f5b89349bb",
+    "gitsha": "2f189d36af5aee5c2e22459e38456b1a11283f42"
+  },
+  {
+    "path": "eda/texas_sources/download.py",
+    "bytes": 2591,
+    "sha256": "c93109cc95e7a7fab3541f4812becdf9aec7702dffbd57f8e2c414a0bf13bddf",
+    "gitsha": "2011a0a875d6bd272d6587cc2199dc4c9c278cb8"
+  },
+  {
+    "path": "eda/texas_sources/locality_validation.json",
+    "bytes": 1125,
+    "sha256": "d669c891d4b483724b8313451e8ae1b281e2a2db1b67bf510914780db85516d2",
+    "gitsha": "feed7a604b1f1d7a200930cf11bbd962943b14f1"
+  },
+  {
+    "path": "eda/texas_sources/manifest.json",
+    "bytes": 1564,
+    "sha256": "d545420e05ef33a95721189672517ecbf6d85798404b57e79ef8f2c098694a45",
+    "gitsha": "292403120f1346b39aa3477fce59c9edebbac13a"
+  },
+  {
+    "path": "eda/texas_sources/query.sql",
+    "bytes": 1073,
+    "sha256": "55c034b9187a9a240786222110039c651d139038b567b13df6b0c087cfb91883",
+    "gitsha": "17f9b9d5b80f605ccc6c1c9f6d7b99d8485e0926"
+  },
+  {
+    "path": "eda/texas_sources/requirements-localities.txt",
+    "bytes": 42,
+    "sha256": "d4f7bb26c2eae61230aed7a1ac99606ff1b6e06bed5e620fc5241841dd630f01",
+    "gitsha": "e971ed2ec2ac60827295bd70d45a19903d97655b"
+  },
+  {
+    "path": "eda/texas_sources/summary.json",
+    "bytes": 2845,
+    "sha256": "de966888a2be920b29dd980c41915d04e6bc34870cf73c912887dbcfa028bceb",
+    "gitsha": "2830e798206f04e5c8d75438ca15ef1daa9e5d20"
+  },
+  {
+    "path": "eda/texas_sources/taxonomy/README.md",
+    "bytes": 3436,
+    "sha256": "ef020a8b7b62de4b6ce98b77ccc6031d95e33e43c738a8afcf79c2d8145896e8",
+    "gitsha": "661d2b9bb73f7f1840f3580ba42469a10cd93754"
+  },
+  {
+    "path": "eda/texas_sources/taxonomy/checksum.json",
+    "bytes": 183,
+    "sha256": "7ee29c12e5a8a9216be33ee74f24704bbc4302e020009476ec0263dd433e8e83",
+    "gitsha": "616a3a36636d882bd53a619b89f04670e12e2b2c"
+  },
+  {
+    "path": "eda/texas_sources/taxonomy/download_taxonomy.py",
+    "bytes": 1936,
+    "sha256": "b6ae5483d092e93d8bd1afe5ccdcedd2818f800bb40e9d5c019c4607e25de1d4",
+    "gitsha": "d5db6c1be293f65c260729b1b61a76662713b0af"
+  },
+  {
+    "path": "eda/texas_sources/taxonomy/manifest.json",
+    "bytes": 774,
+    "sha256": "dabda8759ff0cdfdc73b60390e3c6803dab2613dc9561b9243c5450b5ec1d359",
+    "gitsha": "b90395f4b94ea8d3fba4a8ae8c5937484080fd85"
+  },
+  {
+    "path": "eda/texas_sources/taxonomy/query.sql",
+    "bytes": 644,
+    "sha256": "8c0b24d365b72de7fc633c21cacfa2f177f2e0b8461369e66eaee913788dc1af",
+    "gitsha": "d63509f195fcd2ff77fe70ee7c019036d98b27aa"
+  },
+  {
+    "path": "eda/texas_sources/taxonomy/summary.json",
+    "bytes": 2330,
+    "sha256": "e3023816273dc724aae663c8334daebc5824c4b227f9a8d9b5bc17d062f1db55",
+    "gitsha": "68f1f3888779a9028100fe5eca160ba9bac3992f"
+  },
+  {
+    "path": "eda/texas_sources/taxonomy/texas_pedon_taxonomy.csv.gz",
+    "bytes": 78117,
+    "sha256": "e2d8e84bdf2a7ea317ddeb5a382c5279f1932bf2dc6523154322280669037451",
+    "gitsha": "8ac2ae1d9f2d986ff9c4537aa88e4f2a2221ca06"
+  },
+  {
+    "path": "eda/texas_sources/texas_all.csv.gz",
+    "bytes": 345412,
+    "sha256": "b63a5701389b5a5e07686b07bb8255c9c607035fdf4befd46cfeb48f789c7656",
+    "gitsha": "d672935decf7cc418ce705e7bcc95c10ee69bf4a"
+  },
+  {
+    "path": "eda/texas_sources/texas_locality_coverage.csv",
+    "bytes": 5085,
+    "sha256": "706eff9b9ac176a98bcbe12f01eaac382e5a98ee4bd65c7acd96107e7c5add0e",
+    "gitsha": "18f631f62d8dfb039fcfbaa4ddd3fd2c09f472fb"
+  },
+  {
+    "path": "eda/texas_sources/texas_sample_localities.csv.gz",
+    "bytes": 99880,
+    "sha256": "be4259be136532b7a0253e417f40514ffb9ad5ab1b1b952e23cd7b33ae38caad",
+    "gitsha": "adb7d5d9a5045ff46b3fe19ef145383243f1c5fe"
+  },
+  {
+    "path": "inputs/checksums.json",
+    "bytes": 492,
+    "sha256": "fe174e204cb4e37c61afe90780fa6eb1a0323718aee5cb55a1e7c5d73082b48b",
+    "gitsha": "9399ecb69ff1e1b1cf4324b14ea0bf6254a7e5f4"
+  },
+  {
+    "path": "inputs/phoenix_reference_endpoint_ledger.csv.gz",
+    "bytes": 1953,
+    "sha256": "2d8a98d15b877b6d4c9bee777df6610e8f6b6414ab3f57dd455931dac0e043cf",
+    "gitsha": "fd9320837655f9d4c4523030f04514a535f46ed0"
+  },
+  {
+    "path": "inputs/sample_qc_flags.csv.gz",
+    "bytes": 115075,
+    "sha256": "a61099baded20efcd43f57d12f6bda5b97a8e9675b7d1f547a01741b95eca0a2",
+    "gitsha": "b5f3287a172c94a0cbd6017e61aa5edc85720d01"
+  },
+  {
+    "path": "inputs/texas_all.csv.gz",
+    "bytes": 345412,
+    "sha256": "b63a5701389b5a5e07686b07bb8255c9c607035fdf4befd46cfeb48f789c7656",
+    "gitsha": "d672935decf7cc418ce705e7bcc95c10ee69bf4a"
+  },
+  {
+    "path": "inputs/texas_pedon_taxonomy.csv.gz",
+    "bytes": 78117,
+    "sha256": "e2d8e84bdf2a7ea317ddeb5a382c5279f1932bf2dc6523154322280669037451",
+    "gitsha": "8ac2ae1d9f2d986ff9c4537aa88e4f2a2221ca06"
+  },
+  {
+    "path": "inputs/texas_sample_localities.csv.gz",
+    "bytes": 99880,
+    "sha256": "be4259be136532b7a0253e417f40514ffb9ad5ab1b1b952e23cd7b33ae38caad",
+    "gitsha": "adb7d5d9a5045ff46b3fe19ef145383243f1c5fe"
+  },
+  {
+    "path": "make_profile_figures.py",
+    "bytes": 3933,
+    "sha256": "5890328a6507fd8bfae17bb5bfb7eeef4826e84544566a093dfa4c92dbc7840d",
+    "gitsha": "85ac16cde55c1e9d74b1cb24971b4e30b3e9ae04"
+  },
+  {
+    "path": "notebook_validation.log",
+    "bytes": 103,
+    "sha256": "330211d262a25923eb2ccd29f5ca0cf93c1c736b945c6a57446bd44fcb47582c",
+    "gitsha": "853c0a7d3a50537e4c13fb4da81b19ba824a24c4"
+  },
+  {
+    "path": "outputs/closest_observed_profiles_by_distinct_pedon_EXPLORATORY.csv",
+    "bytes": 553730,
+    "sha256": "3c9d7f9451be80fc8d0f9abb0defbd3288ac3d987d27509a036a7647aee1dc03",
+    "gitsha": "cd73f2b6662566c315af78c7a7e2cabe99016641"
+  },
+  {
+    "path": "outputs/phoenix_reference_endpoint_ledger.csv",
+    "bytes": 17776,
+    "sha256": "3d1e28ab8c5cb6d74d22b0310840d1bf34655b71f055db88e04785fcbef178e1",
+    "gitsha": "18136e0c3b1dac8caed5888efec5280688b4aa1c"
+  },
+  {
+    "path": "outputs/profile_distance_distributions.png",
+    "bytes": 62833,
+    "sha256": "44eca10234fd8a5939c7ca4d54d5e6ab69665d09496fe2fb55270cf10346a296",
+    "gitsha": "e0226fafdbc968a44854c210084388051c075047"
+  },
+  {
+    "path": "outputs/profile_run_summary.csv",
+    "bytes": 12122,
+    "sha256": "81f4a8ba246f99746f5fde0319553f4c936a8e22bad2f9a46699fe66795b5722",
+    "gitsha": "be9d482810b621ce1380ae15c5803ae7cf56a0ce"
+  },
+  {
+    "path": "outputs/rank_sensitivity_correlations.csv",
+    "bytes": 1666,
+    "sha256": "4431e96a1e2121869c570a0dabedfb77be7a861a413d31657329e0d958238224",
+    "gitsha": "218dd60cc7806f302f9d654c58cbbce7c343dc32"
+  },
+  {
+    "path": "outputs/secondary_endpoint_rank_sensitivity.png",
+    "bytes": 121742,
+    "sha256": "486c791858d7216d6e9293295c7979bc8d4f22d617dc1849b388551cc6dd6ac1",
+    "gitsha": "e812038a02ccaaad85000e26b28696d5095092c4"
+  },
+  {
+    "path": "outputs/shallow_cation_profiles.png",
+    "bytes": 109687,
+    "sha256": "e9f0ba278b0b6d8de3def0fa3b1136f9ae87022fe64079e310a8c2a5963fd3ab",
+    "gitsha": "f66cd66d44d3d078a79bdf9bbf59873e67499cb1"
+  },
+  {
+    "path": "outputs/shallow_closest_profiles_full_values_and_location.csv",
+    "bytes": 10548,
+    "sha256": "b212bf9f8c30e6ef7101d8e3a7889cde580e9c5db2135eff843018fac629239e",
+    "gitsha": "de7d75291a1aaadc2140b1d85358676f714ee90d"
+  },
+  {
+    "path": "outputs/shallow_rank_scenarios.png",
+    "bytes": 69725,
+    "sha256": "ba9aaaed7c4021f324d302693fb5abd83aabcbda8354c1a99067c7145b59bae7",
+    "gitsha": "d2533a009ba24ece4b79651ee36522ce8ef32738"
+  },
+  {
+    "path": "plain_csv_notebook_validation.log",
+    "bytes": 103,
+    "sha256": "330211d262a25923eb2ccd29f5ca0cf93c1c736b945c6a57446bd44fcb47582c",
+    "gitsha": "853c0a7d3a50537e4c13fb4da81b19ba824a24c4"
+  },
+  {
+    "path": "provenance/README-localities.md",
+    "bytes": 6238,
+    "sha256": "210a8d65e26b9efb320b8eb87d9e73351b7ef39e12cbbe8e1ddeecb3a9aa503a",
+    "gitsha": "2a87aa1d1671ccb51de76a5d95130dde4608889c"
+  },
+  {
+    "path": "provenance/TAXONOMY_SOURCE_NOTES.md",
+    "bytes": 3436,
+    "sha256": "ef020a8b7b62de4b6ce98b77ccc6031d95e33e43c738a8afcf79c2d8145896e8",
+    "gitsha": "661d2b9bb73f7f1840f3580ba42469a10cd93754"
+  },
+  {
+    "path": "provenance/USDA_SOURCE_NOTES.md",
+    "bytes": 6306,
+    "sha256": "af6fd8bf3d3d5b8dee6483fdf5313774af0fde1e70231faff08bb7bebecb3a85",
+    "gitsha": "b5e06073ac3cb03f1870f0ee56a45a4b671b3720"
+  },
+  {
+    "path": "provenance/build_localities.py",
+    "bytes": 6134,
+    "sha256": "67b56c61d35a5317b7a6567c14eea28c275f3ecec6d7df5b589d86e4bad565b1",
+    "gitsha": "7da4e634c8975010718a86fde4b7a35f126b3974"
+  },
+  {
+    "path": "provenance/download_taxonomy.py",
+    "bytes": 1985,
+    "sha256": "6549fea7dccb24f395398a0007cb393776926f947056883d7529b4bf90aef4ec",
+    "gitsha": "9e0bce43ef74cdab11a742e30ce5e142644efb0f"
+  },
+  {
+    "path": "provenance/download_usda_snapshot.py",
+    "bytes": 2591,
+    "sha256": "c93109cc95e7a7fab3541f4812becdf9aec7702dffbd57f8e2c414a0bf13bddf",
+    "gitsha": "2011a0a875d6bd272d6587cc2199dc4c9c278cb8"
+  },
+  {
+    "path": "provenance/locality_validation.json",
+    "bytes": 1125,
+    "sha256": "d669c891d4b483724b8313451e8ae1b281e2a2db1b67bf510914780db85516d2",
+    "gitsha": "feed7a604b1f1d7a200930cf11bbd962943b14f1"
+  },
+  {
+    "path": "provenance/query.sql",
+    "bytes": 1073,
+    "sha256": "55c034b9187a9a240786222110039c651d139038b567b13df6b0c087cfb91883",
+    "gitsha": "17f9b9d5b80f605ccc6c1c9f6d7b99d8485e0926"
+  },
+  {
+    "path": "provenance/requirements-localities.txt",
+    "bytes": 42,
+    "sha256": "d4f7bb26c2eae61230aed7a1ac99606ff1b6e06bed5e620fc5241841dd630f01",
+    "gitsha": "e971ed2ec2ac60827295bd70d45a19903d97655b"
+  },
+  {
+    "path": "provenance/restore_census_archive.py",
+    "bytes": 597,
+    "sha256": "73f3ca5c59df9b7cb3e32f03616d09a6479fcede888caecebd9f95e377d34486",
+    "gitsha": "c0eef32bb54e9200c08fa5255623a487bb37eb74"
+  },
+  {
+    "path": "provenance/taxonomy_query.sql",
+    "bytes": 644,
+    "sha256": "8c0b24d365b72de7fc633c21cacfa2f177f2e0b8461369e66eaee913788dc1af",
+    "gitsha": "d63509f195fcd2ff77fe70ee7c019036d98b27aa"
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 76,
+    "sha256": "f820064068d91cfd100872592fca8071a5bae304848675c6b3da6dc7e637178b",
+    "gitsha": "e8c50cb0501f2c1e332e021121d32bb05aa64c8d"
+  },
+  {
+    "path": "restore_inputs.py",
+    "bytes": 496,
+    "sha256": "c7b75ee2d2051fc62d5f4efe27b60e37cb56d58bd2c2d2f8ac6369e18516e476",
+    "gitsha": "6d1165c1d15a965fbd70c690c0bbe8ad9d6d1ecb"
+  },
+  {
+    "path": "run_profiles.py",
+    "bytes": 8360,
+    "sha256": "75c130c7ca5c6c2516e9fbe6a94750ed812670296d2e44b542f29f60f6304631",
+    "gitsha": "94e044d239ffed9976c5e46edce6cec358160961"
+  },
+  {
+    "path": "test_profiles.py",
+    "bytes": 2114,
+    "sha256": "b039f3107bfbb47f57bafd3576f9d8f47855cb0623577d46a328fcb887266e62",
+    "gitsha": "835eed04ce2805761ed2c03540de00aa894d754f"
+  },
+  {
+    "path": "validate_notebook.py",
+    "bytes": 1347,
+    "sha256": "85ecac64af632b95caa1028b62ec59d33561fc88745e803968dd4b80ef553d13",
+    "gitsha": "fe71ad0a455625c09d453b9a7f949688d17a70c6"
+  }
+]

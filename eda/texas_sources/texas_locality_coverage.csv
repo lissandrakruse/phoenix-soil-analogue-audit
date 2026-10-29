@@ -1,0 +1,65 @@
+place_geoid,place_name,place_label,place_type,boundary_year,sample_count,complete_eight_sample_count,near_boundary_sample_count,pedon_count,complete_eight_pedon_count,source_counties
+4804516,Atlanta,Atlanta city,incorporated_place,2025,15,0,0,2,0,Cass
+4805372,Balch Springs,Balch Springs city,incorporated_place,2025,9,0,0,1,0,Dallas
+4806128,Baytown,Baytown city,incorporated_place,2025,7,0,0,1,0,Chambers
+4807000,Beaumont,Beaumont city,incorporated_place,2025,36,8,0,3,2,Jefferson
+4808128,Bevil Oaks,Bevil Oaks city,incorporated_place,2025,8,0,0,1,0,Jefferson
+4808236,Big Spring,Big Spring city,incorporated_place,2025,8,1,0,1,1,Howard
+4809250,Bolivar Peninsula,Bolivar Peninsula CDP,census_designated_place,2025,6,0,0,1,0,Galveston
+4810912,Bryan,Bryan city,incorporated_place,2025,17,0,0,2,0,Brazos
+4813024,Carrollton,Carrollton city,incorporated_place,2025,7,0,7,1,0,Dallas
+4814776,Chireno,Chireno city,incorporated_place,2025,9,0,9,1,0,Nacogdoches
+4815436,Cleveland,Cleveland city,incorporated_place,2025,6,2,0,1,1,Liberty
+4815976,College Station,College Station city,incorporated_place,2025,65,0,0,7,0,Brazos
+4816432,Conroe,Conroe city,incorporated_place,2025,18,0,0,2,0,Montgomery
+4817060,Corsicana,Corsicana city,incorporated_place,2025,5,0,0,1,0,Navarro
+4819000,Dallas,Dallas city,incorporated_place,2025,35,6,0,3,3,Collin
+4819432,Dayton,Dayton city,incorporated_place,2025,6,0,6,1,0,Liberty
+4824000,El Paso,El Paso city,incorporated_place,2025,11,1,0,2,1,El Paso
+4824840,Evadale,Evadale CDP,census_designated_place,2025,10,0,10,1,0,Jasper
+4825452,Farmers Branch,Farmers Branch city,incorporated_place,2025,8,0,0,1,0,Dallas
+4825752,Ferris,Ferris city,incorporated_place,2025,5,0,0,1,0,Ellis
+4827000,Fort Worth,Fort Worth city,incorporated_place,2025,12,0,5,2,0,Tarrant
+4827348,Fredericksburg,Fredericksburg city,incorporated_place,2025,7,0,0,1,0,Gillespie
+4827420,Freeport,Freeport city,incorporated_place,2025,3,0,3,1,0,Brazoria
+4827684,Frisco,Frisco city,incorporated_place,2025,12,0,0,3,0,Collin
+4827984,Gainesville,Gainesville city,incorporated_place,2025,7,0,7,1,0,Cooke
+4828068,Galveston,Galveston city,incorporated_place,2025,23,0,0,2,0,Galveston
+4830464,Grand Prairie,Grand Prairie city,incorporated_place,2025,17,0,0,2,0,Dallas
+4834136,Hilltop Lakes,Hilltop Lakes CDP,census_designated_place,2025,5,0,0,1,0,Leon
+4835000,Houston,Houston city,incorporated_place,2025,29,9,6,4,4,Harris
+4835528,Huntsville,Huntsville city,incorporated_place,2025,9,0,0,1,0,Walker
+4837000,Irving,Irving city,incorporated_place,2025,9,0,0,1,0,Dallas
+4837468,Jayton,Jayton city,incorporated_place,2025,7,0,0,1,0,Kent
+4837528,Jefferson,Jefferson city,incorporated_place,2025,7,0,0,1,0,Marion
+4837684,Joaquin,Joaquin city,incorporated_place,2025,14,7,0,2,2,Shelby
+4839352,Kingsville,Kingsville city,incorporated_place,2025,13,13,0,2,2,Kleberg
+4841452,La Pryor,La Pryor CDP,census_designated_place,2025,9,0,0,1,0,Zavala
+4842448,Levelland,Levelland city,incorporated_place,2025,7,3,0,1,1,Hockley
+4844020,Lorena,Lorena city,incorporated_place,2025,5,0,0,1,0,McLennan
+4844146,Los Nopalitos,Los Nopalitos CDP,census_designated_place,2025,4,4,4,1,1,Webb
+4845000,Lubbock,Lubbock city,incorporated_place,2025,39,17,7,5,5,Lubbock
+4847100,Mauriceville,Mauriceville CDP,census_designated_place,2025,7,0,0,1,0,Orange
+4845672,McGregor,McGregor city,incorporated_place,2025,3,0,0,1,0,McLennan
+4848648,Mineola,Mineola city,incorporated_place,2025,7,0,0,1,0,Wood
+4850256,Nacogdoches,Nacogdoches city,incorporated_place,2025,9,0,0,1,0,Nacogdoches
+4852212,Northlake,Northlake town,incorporated_place,2025,7,5,0,1,1,Denton
+4856000,Pasadena,Pasadena city,incorporated_place,2025,12,6,0,1,1,Harris
+4858502,Poetry,Poetry town,incorporated_place,2025,8,0,8,1,0,Kaufman
+4858928,Port Mansfield,Port Mansfield CDP,census_designated_place,2025,6,5,0,1,1,Willacy
+4859336,Prairie View,Prairie View city,incorporated_place,2025,31,0,0,4,0,Harris|Waller
+4859576,Princeton,Princeton city,incorporated_place,2025,14,0,14,2,0,Collin
+4859696,Prosper,Prosper town,incorporated_place,2025,9,0,0,1,0,Collin
+4861568,Rendon,Rendon CDP,census_designated_place,2025,9,0,0,1,0,Tarrant
+4862588,Robinson,Robinson city,incorporated_place,2025,10,4,0,1,1,McLennan
+4863284,Rosenberg,Rosenberg city,incorporated_place,2025,19,0,0,3,0,Fort Bend
+4865000,San Antonio,San Antonio city,incorporated_place,2025,6,0,6,1,0,Bexar
+4868576,Snook,Snook city,incorporated_place,2025,33,4,0,5,2,Burleson
+4872176,Temple,Temple city,incorporated_place,2025,19,0,10,2,0,Bell
+4873493,Town of Pecos,Town of Pecos city,incorporated_place,2025,24,10,0,4,2,Reeves
+4874588,Uvalde,Uvalde city,incorporated_place,2025,5,4,0,1,1,Uvalde
+4876000,Waco,Waco city,incorporated_place,2025,4,0,0,1,0,McLennan
+4876864,Weatherford,Weatherford city,incorporated_place,2025,7,0,0,1,0,Parker
+4877056,Weir,Weir city,incorporated_place,2025,5,0,0,1,0,Williamson
+4877662,West Livingston,West Livingston CDP,census_designated_place,2025,6,0,0,1,0,Polk
+4879576,Wilmer,Wilmer city,incorporated_place,2025,7,0,0,1,0,Dallas

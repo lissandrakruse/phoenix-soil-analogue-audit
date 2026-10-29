@@ -1,0 +1,50 @@
+{
+  "README.md": {
+    "bytes": 5834,
+    "sha256": "5b2bd30cb4a6954b6612cf0e3947644b2b6d82d32d34f8f209a715b09455c5b9"
+  },
+  "county_coverage.csv": {
+    "bytes": 4191,
+    "sha256": "403b6c9ef0df8e6adf724ee178fb37b521b82a55a631726f238dd6f5b89349bb"
+  },
+  "datause.html": {
+    "bytes": 8382,
+    "sha256": "7eb2ab6deedec1af63e415e89ac296a77b9601ea50878f20f11ccef310f9fe7f"
+  },
+  "download.py": {
+    "bytes": 2591,
+    "sha256": "c93109cc95e7a7fab3541f4812becdf9aec7702dffbd57f8e2c414a0bf13bddf"
+  },
+  "pedon34266.html": {
+    "bytes": 57630,
+    "sha256": "0727236f4dd59bf17d8681ca49f6b496c8e29cf344332e1bad9c73f642892b5c"
+  },
+  "query.sql": {
+    "bytes": 1073,
+    "sha256": "55c034b9187a9a240786222110039c651d139038b567b13df6b0c087cfb91883"
+  },
+  "summary.json": {
+    "bytes": 2845,
+    "sha256": "de966888a2be920b29dd980c41915d04e6bc34870cf73c912887dbcfa028bceb"
+  },
+  "texas_all.csv": {
+    "bytes": 2531566,
+    "sha256": "cefb7158c23921b5c98cdd6f5a5949a8b39a1b4f82f1d0ae5b71388042b483b6"
+  },
+  "texas_complete_geolocated.csv": {
+    "bytes": 748692,
+    "sha256": "37369c91f851e5e551b2870368a57048c8a1749bd0abe5fb79e870a40e99de7e"
+  },
+  "texas_complete_saturation.csv": {
+    "bytes": 800310,
+    "sha256": "a2b5a0d15cd37d814eeaad314bf3d8424bd1a43b8284c7a48470cc6daab57f75"
+  },
+  "texas_raw.json": {
+    "bytes": 4377723,
+    "sha256": "0491997b855728b9b173fdd5216b2d471983658e8e83f06fca1fca4abc427e48"
+  },
+  "texas_water_extract.csv": {
+    "bytes": 5027,
+    "sha256": "191ff7fc6d0c430e525c2a6ad8bd1a3af9aa44e2dac622c0c651edf0a5dbeba6"
+  }
+}

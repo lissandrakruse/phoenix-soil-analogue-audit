@@ -1,0 +1,26 @@
+{
+  "frozen_original_zip_sha256": "4a85f991477eeae5c081ae141018dceb9921b7b5612b7780629f8fe259b054e8",
+  "unchanged_notebook_sha256": "2ac113dee1411f4a8b56439894680a02ad60eaf0a2b27d860b210ec58a87082d",
+  "omitted_regenerable_files": [
+    {
+      "path": "outputs/profile_distances_all_strata_EXPLORATORY.csv.gz",
+      "sha256": "69bd9900a6686000c959d8cefcf7af0b224c1f58ea5efe0edc8c12df056f5acc",
+      "bytes": 15775767
+    },
+    {
+      "path": "provenance/tl_2025_48_place.zip.b64",
+      "sha256": "9e7e2388d8bb5b369d1f888deb43f1d6d71c083dd45fddfe6ed228239991e4f7",
+      "bytes": 13042720
+    },
+    {
+      "path": "eda/outputs/measurements_long.csv.gz",
+      "sha256": "9dda7bda956032826155ad1d3187d8cfcee555c5a25dcec4ef1ff0381b63cf08",
+      "bytes": 2715591
+    },
+    {
+      "path": "eda/outputs/sample_qc_flags.csv",
+      "sha256": "dc7d48225fa9b8b8ecdade1faf81235f495b8a3b1972d280b6b8fa6c966f8276",
+      "bytes": 1843466
+    }
+  ]
+}

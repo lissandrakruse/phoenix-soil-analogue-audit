@@ -1,0 +1,32 @@
+{
+  "input_rows": 14805,
+  "unique_sample_ids": 14805,
+  "unique_coordinate_pairs_including_missing": 1752,
+  "source_place_polygons": 1863,
+  "status_all": {
+    "outside": 11877,
+    "missing": 2132,
+    "inside": 796
+  },
+  "status_complete_eight": {
+    "missing": 278,
+    "outside": 3495,
+    "inside": 109
+  },
+  "places_with_samples": 64,
+  "places_with_complete_eight": 18,
+  "within_100m_boundary_all": 307,
+  "within_100m_boundary_complete": 25,
+  "boundary_source_url": "https://www2.census.gov/geo/tiger/TIGER2025/PLACE/tl_2025_48_place.zip",
+  "boundary_sha256": "5a0c4d49641f69028ee9f5c343bf09936ec00a378e5e6393115b106bab935e13",
+  "input_sha256": "cefb7158c23921b5c98cdd6f5a5949a8b39a1b4f82f1d0ae5b71388042b483b6",
+  "output_sha256": "1f0bb14d99b3b46e483ade4dbc8889afbd67acf0c3c38bffe89d23d8acb3c235",
+  "input_crs": "EPSG:4326 assumed for standardized decimal degrees; per-record datum unavailable; legacy-location uncertainty remains",
+  "polygon_crs": "EPSG:4269",
+  "distance_crs": "EPSG:3083; approximate metres",
+  "versions": {
+    "shapely": "2.2.0",
+    "pyproj": "3.8.0",
+    "pyshp": "3.1.6"
+  }
+}
